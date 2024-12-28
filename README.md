@@ -1,6 +1,6 @@
 # Bootcamp Microsoft AI for Tech – Criando Prompts Inteligentes da [DIO](https://dio.me)
 
-## Módulo "APlicações Práticas e Ferramentas de IAs".
+## Módulo "Aplicações Práticas e Ferramentas de IAs".
 
 ### Desafio de Projeto "Documentando Projetos Automáticos Utilizando IA".
 
