@@ -47,6 +47,25 @@ Este repositório contém os materiais e projetos desenvolvidos durante a Forma�
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Contato
+## 👨‍💻 Autor
 
-Para mais informações, entre em contato com [OpusVix](https://github.com/opusvix).
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/58704060?s=400&u=c58b05997dcd842e95dd0f5c45ab04c2054df583&v=4"
+    />
+    <p>&nbsp&nbsp&nbspMaurício Barros<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/opusvix">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/mauriciodasilvabarros/">LinkedIn</a>
+    &nbsp;|&nbsp;
+    <a href="https://x.com/opusvix">
+    X</a>&nbsp;|&nbsp;
+    <a href="mailto:opusvix@gmail.com">E-mail</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
